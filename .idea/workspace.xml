@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c8a5beb-6a43-4cfd-ac34-c2936f1ab10c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/.idea/.idea.BrackeysGameJam2023-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/.idea/.idea.BrackeysGameJam2023-2/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/.idea/.idea.BrackeysGameJam2023-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/.idea/.idea.URP Game Jam Base/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/.idea/.idea.URP Game Jam Base/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/.idea/.idea.URP Game Jam Base/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/.vsconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/EnemyAnimation.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/EnemyAnimation.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/EnemyRun.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/EnemyRun.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/Run/enemy-run_0005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/enemy-run_0000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/enemy-run_0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/enemy-run_0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/enemy-run_0003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/enemy-run_0004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/enemy-run_0005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0000.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0001.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0002.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0003.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0004.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0005.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0006.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0007.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0008.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0009.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0010.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0011.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0012.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0013.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0014.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0015.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0016.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0017.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0018.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0019.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0020.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0021.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0022.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0023.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0024.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/Enemy/fall-and-idle0025.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/posters.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dSprites/posters/2023-08-27_keep-working_poster.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/enemy-run_0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/enemy-run_0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/enemy-run_0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/enemy-run_0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/enemy-run_0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/enemy-run_0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/enemy/fall-and-idle0025.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/2dsprites/posters/2023-08-27_keep-working_poster.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/ArrestBanner_AC.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/ArrestBanner_AC.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/ArrestBanner_Scroll.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/ArrestBanner_Scroll.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Arrested_AC.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Arrested_AC.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Arrested_Anim.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Arrested_Anim.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Cutscene-Intro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Cutscene-Intro/CutsceneIntro_AC.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Cutscene-Intro/CutsceneIntro_AC.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Cutscene-Intro/CutsceneIntro_Anim.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/Cutscene-Intro/CutsceneIntro_Anim.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemyAnimator.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemyAnimator.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemyIdle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemyIdle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemyRun.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemyRun.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemySplat.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemySplat.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemySplatUpdate.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/EnemySplatUpdate.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerChachter.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerChachter.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerCharachterIdle.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerCharachterIdle.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerCharachterRun.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerCharachterRun.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerKick.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerKick.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerSlam.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/PlayerSlam.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageBar_AC.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageBar_AC.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageBar_Scroll.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageBar_Scroll.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageText_AC.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageText_AC.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageText_Open.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageText_Open.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageText_Shake.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Animation/RageText_Shake.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/TestDialogue.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/TestDialogue.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/argh.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/argh.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/detained.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/detained.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/fall.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/fall.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/iDontPeel.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/iDontPeel.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/ladiesAndGentlement.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/ladiesAndGentlement.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/slipUp.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/slipUp.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/underArrest.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/underArrest.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/weGotEm.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Dialogue/weGotEm.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Master.mixer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Master.mixer.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Anger.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Anger.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Downward_Spiral.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Downward_Spiral.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/In_Rage.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/In_Rage.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Leva - Eternity - lemonmusicstudio.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Leva - Eternity - lemonmusicstudio.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Riff.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Riff.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Summer Walk - Olexy.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/Summer Walk - Olexy.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/menu.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Music/menu.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/Blip - u_f1ee7vf7na.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/Blip - u_f1ee7vf7na.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/Surprise - Phoenix_Connection_Brazil.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/Surprise - Phoenix_Connection_Brazil.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/arrested.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/arrested.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/groundCollapse.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/groundCollapse.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/promo.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/promo.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashBookcase.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashBookcase.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashComputerDesk.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashComputerDesk.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashDesk.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashDesk.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashFilingCabinet.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashFilingCabinet.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashPlant1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashPlant1.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashPlant2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashPlant2.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashVent.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashVent.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashWaterCooler.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Audio/Sounds/smashWaterCooler.wav.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/EnableFloor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/EnableFloor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Big Chair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Big Chair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Bookcase.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Bookcase.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Corner Table.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Corner Table.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Elevator.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Elevator.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Key Board.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Key Board.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Large Filing Cabinet.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Large Filing Cabinet.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Mouse.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Mouse.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Mug.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Mug.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/PC.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/PC.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Paper Particle.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Paper Particle.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Plant.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Plant.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Pot.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Pot.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Screen.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Screen.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Small Chair.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Small Chair.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Small Filing Cabinet.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Small Filing Cabinet.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Table.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Table.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Water Cooler.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/Water Cooler.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/air vent.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/air vent.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/air ventnew.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/air ventnew.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/book cover.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/book cover.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/clock .fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/clock .fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/turbine .prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/turbine .prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/window big.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/window big.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/window small.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fbx/window small.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/FloorCube.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/FloorCube.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/DullBoy.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/DullBoy/DULL BOY - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/DullBoy/DULL BOY - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/DullBoy/DULL BOY PERSONAL USE.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/DullBoy/DULL BOY PERSONAL USE.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/DullBoy/DULL BOY.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/DullBoy/DULL BOY.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif/SerSerif-Regular SDF - MONEYPOPUp.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif/SerSerif-Regular SDF - MONEYPOPUp.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif/SerSerif-Regular SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif/SerSerif-Regular SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif/SerSerif-Regular-Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif/SerSerif-Regular-Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif/SerSerif-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Fonts/SerSerif/SerSerif-Regular.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/HideCover.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/HideCover.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/HoldToSkipCutscene.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/HoldToSkipCutscene.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/AngerIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/AngerIcon.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Arrow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/AudioIcons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/AudioIcons.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/BrackeysLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/BrackeysLogo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/CircleLowPix.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/CircleLowPix.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Handcuffs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Handcuffs.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets/angrysheet_idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets/angrysheet_idle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets/angrysheet_kick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets/angrysheet_kick.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets/angrysheet_run.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets/angrysheet_run.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets/angrysheet_slam.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player Spritesheets/angrysheet_slam.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player_Placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/Player_Placeholder.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/RageBarBorder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/RageBarBorder.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/RageBarFill.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/RageBarFill.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/RageBarNoLines.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/RageBarNoLines.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/SpeechBubble_Large.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/SpeechBubble_Large.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/TITLE.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/TITLE.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/smoke2D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Images/smoke2D.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/NearbyEnemies.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/NearbyEnemies.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/PlayerArrest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/PlayerArrest.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Popup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Popup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/AudioManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/AudioManager.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Elevator.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Elevator.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/FinalRoom.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/FinalRoom.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/FloorCube.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/FloorCube.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Hostile.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Hostile.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/InputManager.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/InputManager.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/MoneyPopup.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/MoneyPopup.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/NavMesh-Room.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/NavMesh-Room.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Options.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Options.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Particles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Particles/SmokePS.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Particles/SmokePS.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/PauseMenu.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/PauseMenu.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 8.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 8.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 9.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant 9.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room Layouts/Room Variant.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Room.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Air Vent.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Air Vent.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/BigChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/BigChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Book .prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Book .prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/BookShelf.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/BookShelf.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Clock .prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Clock .prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/CornerTable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/CornerTable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/DeskWithPC1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/DeskWithPC1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/DeskWithPC2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/DeskWithPC2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/FilingCabinet.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/FilingCabinet.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Keyboard.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Keyboard.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Mouse.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Mouse.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Mug.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Mug.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/PC.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/PC.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/PlantPot.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/PlantPot.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Screen.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Screen.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/SmallChair.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/SmallChair.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/SmallFilingCabinet.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/SmallFilingCabinet.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Table.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/Table.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/WaterCooler.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/WaterCooler.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/big window .prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/big window .prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/small window.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Objects/small window.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Smashable.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/Smashable.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableBookCase.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableBookCase.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableCornerDesk empty.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableCornerDesk empty.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableCornerDeskWithStuff.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableCornerDeskWithStuff.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableDesk emoty.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableDesk emoty.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableDesk.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableDesk.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableDesk2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableDesk2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableFilingCabinetBig.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableFilingCabinetBig.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableFilingCabinetSmall.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableFilingCabinetSmall.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashablePlantBig.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashablePlantBig.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashablePlantSmall.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashablePlantSmall.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableRoof.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableRoof.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableWaterCooler.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Prefabs/Smashables/SmashableWaterCooler.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene/LightingData.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene/LightingData.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene/NavMesh-Floor.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene/NavMesh-Floor.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene/NavMesh-Room.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene/NavMesh-Room.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene/ReflectionProbe-0.exr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/GameScene/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/IntroAnimationScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/IntroAnimationScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/MenuScene.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Scenes/MenuScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/Balanced_PipelineAsset.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/Balanced_PipelineAsset.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/Balanced_PipelineAsset_ForwardRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/Balanced_PipelineAsset_ForwardRenderer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/InputSettingsDefault.inputactions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/InputSettingsDefault.inputactions.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/InputSystem.inputsettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/InputSystem.inputsettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/LightingSettings.lighting" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/LightingSettings.lighting.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/Performant_PipelineAsset.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/Performant_PipelineAsset.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/Performant_PipelineAsset_ForwardRenderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/Performant_PipelineAsset_ForwardRenderer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/PostProcessing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/PostProcessing/PostProcessingEnraged.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/PostProcessing/PostProcessingEnraged.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/PostProcessing/PostProcessingStandard.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/PostProcessing/PostProcessingStandard.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-Balanced-Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-Balanced-Renderer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-Balanced.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-Balanced.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-HighFidelity-Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-HighFidelity-Renderer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-HighFidelity.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-HighFidelity.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-Performant-Renderer.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-Performant-Renderer.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-Performant.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/URP-Performant.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Fonts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Sprite Assets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Style Sheets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/TMP Settings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMPro.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Sprites.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Sprites/EmojiOne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Sprites/EmojiOne.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/WebGLTemplates.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/WebGLTemplates/BetterMinimal.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/WebGLTemplates/BetterMinimal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/WebGLTemplates/BetterMinimal/index.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/WebGLTemplates/BetterMinimal/thumbnail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/WebGLTemplates/BetterMinimal/thumbnail.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Baige.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Baige.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/BallExampleMat.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/BallExampleMat.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Black.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Black.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Blue.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Blue.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Brown.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Brown.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Grass.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Grass.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Green.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Green.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Grey.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Grey.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Lit.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Lit.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/LitTransparent.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/LitTransparent.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Low poly Texture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Low poly Texture.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/ObjectMaterialAtlas.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/ObjectMaterialAtlas.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Orange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Orange.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Physics.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Physics/Bouncy.physicMaterial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Physics/Bouncy.physicMaterial.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/SkyMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/SkyMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Smashable.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/Smashable.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/SmokePS.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/SmokePS.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/White.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Materials/White.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/AudioManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/AudioManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Cinemachine_CameraShake.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Cinemachine_CameraShake.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Cinemachine_FollowPlayerInWorld.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Cinemachine_FollowPlayerInWorld.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/DontDestroyOnLoad.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/DontDestroyOnLoad.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/FollowPlayerOnScreen.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/FollowPlayerOnScreen.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/GameStateManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/GameStateManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/HostileController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/HostileController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/HostileManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/HostileManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/InputManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/InputManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/OnAnimationEnd.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/OnAnimationEnd.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/OnCollision.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/OnCollision.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PlayerAttacks.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PlayerAttacks.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PlayerController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PlayerController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PlayerRage.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PlayerRage.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PostProcessingChanger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/PostProcessingChanger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Room.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Room.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/RoomManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/RoomManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/SceneManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/SceneManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Singleton.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Singleton.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Smashable.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/Smashable.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/StatManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/StatManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/UIManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Scripts/UIManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Shaders.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Shaders/ShaderExample.shadergraph" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Assets/_Shaders/ShaderExample.shadergraph.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Packages/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/Packages/packages-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/AudioManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/BurstAotSettings_StandaloneWindows.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/BurstAotSettings_WebGL.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/ClusterInputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/CommonBurstAotSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/DynamicsManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/EditorSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/GraphicsSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/InputManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/MemorySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/NavMeshAreas.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/Physics2DSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/PresetManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/ProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/ProjectVersion.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/QualitySettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/SceneTemplateSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/TagManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/TimeManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/TimelineSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/URPProjectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/VFXManager.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/VersionControlSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrackeysGameJam2023-2/ProjectSettings/XRSettings.asset" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3FsLRcJ7TlwBIKRTH3ApikJY2wB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c8a5beb-6a43-4cfd-ac34-c2936f1ab10c" name="Changes" comment="" />
+      <created>1782858824053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782858824053</updated>
+      <workItem from="1782858824775" duration="1437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
