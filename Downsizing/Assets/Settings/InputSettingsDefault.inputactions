@@ -330,6 +330,72 @@
                 },
                 {
                     "name": "",
+                    "id": "5b7514ac-7627-4750-86a6-ca9d25fec3b1",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "95226fcf-3509-4524-bc9b-403df08bf21c",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "087d3332-78a3-4060-b809-a165334c1a2e",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "71586207-9a1f-474f-b52e-f7a27d8693cd",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "cfe2c846-9193-4b9e-ba19-f2290a564540",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ef97f501-83fd-4712-824f-c81364d0aa40",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "59d9b50b-c4ed-4317-9bf1-93841234d955",
                     "path": "<Pointer>/position",
                     "interactions": "",
@@ -448,6 +514,72 @@
                     "action": "PrimaryUp",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "51f74908-a159-4530-8c3c-75422916989f",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c040aa43-a86c-4704-b74f-398571930934",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d9cc19d0-fcd2-4fa9-8568-e12c3310f8e0",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7b48aceb-2767-46ab-9945-1471e4901d7c",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b3ffd6d8-4c61-44f1-824a-f2259c540157",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fafccbcd-664f-487c-8e08-e010bc05eae6",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
@@ -468,7 +600,7 @@
                     "name": "Submit",
                     "type": "Button",
                     "id": "7607c7b6-cd76-4816-beef-bd0341cfe950",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -818,6 +950,105 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard&Mouse;Gamepad;Touch;Joystick;XR",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fe8dc37b-46bb-4885-a518-3c1a3e910519",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1a8d1213-c1d0-4647-b222-db4e490ef14e",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7448de98-3e4c-4874-8f28-05daba2a9eb7",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b43fd613-5a15-4794-b3a3-49debad318e6",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "877a0472-d57f-4cba-9961-d18b79f5ebda",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "205a56f5-639c-4504-a5c9-e1b24190efa8",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "64156f87-14b0-4453-a74c-dad6bfb97550",
+                    "path": "<HID::DragonRise inc.   Generic   USB  Joystick  >/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d2321e7a-3a34-4d2b-9f3f-9e8a38a55932",
+                    "path": "<HID::DragonRise inc.   Generic   USB  Joystick  >/button2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Submit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "44724b1b-d120-4d9f-b664-6bfc131f822d",
+                    "path": "<HID::Ultimarc UltraStik Ultimarc Ultra-Stik Player 1>/button6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "Submit",
                     "isComposite": false,
                     "isPartOfComposite": false

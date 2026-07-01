@@ -1,0 +1,46 @@
+{
+    "name": "Arcade_ExitButton",
+    "maps": [
+        {
+            "name": "ExitButton",
+            "id": "5f023459-6353-4fa5-a525-408dbf1a4111",
+            "actions": [
+                {
+                    "name": "ExitButton",
+                    "type": "Button",
+                    "id": "67b4ee0f-abf8-482e-a375-b4a0a5306e04",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "30bc8bc5-30bb-4d98-8738-be393400ce6a",
+                    "path": "<HID::DragonRise inc.   Generic   USB  Joystick  >/button3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ExitButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "ExitButton",
+            "bindingGroup": "ExitButton",
+            "devices": [
+                {
+                    "devicePath": "<HID::DragonRise inc.   Generic   USB  Joystick  >",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
