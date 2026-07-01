@@ -14,7 +14,6 @@ public class HostileController : MonoBehaviour
     private NavMeshAgent agent;
 
     private HostileManager hostileManager;
-    private Rigidbody playerRigidbody;
     public GameObject hostilePosition;
     public GameObject playerPosition;
     public Animator animator;
@@ -35,7 +34,6 @@ public class HostileController : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         player = FindFirstObjectByType<PlayerController>();
         hostileManager = FindFirstObjectByType<HostileManager>();
-        playerRigidbody = FindFirstObjectByType<Rigidbody>();
     }
 
     // Update is called once per frame

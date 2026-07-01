@@ -25,6 +25,17 @@ namespace Managers
         {
             LoadScene((Scenes)sceneBuildIndex);
         }
+
+        public void LoadSceneDelayed(int sceneBuildIndex)
+        {
+            _ = LoadSceneAsync((Scenes)sceneBuildIndex);
+        }
+
+        private async Awaitable LoadSceneAsync(Scenes scene)
+        {
+            await Awaitable.WaitForSecondsAsync(1f);
+            LoadScene(scene);
+        }
         
         public void LoadScene(Scenes scene)
         {

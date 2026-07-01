@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
 public class InputManager : Singleton<InputManager>
@@ -65,4 +66,9 @@ public class InputManager : Singleton<InputManager>
     }
 
 
+    public void SetSelected(Transform target)
+    {
+        TryGetComponent(out EventSystem eventSystem);
+        eventSystem.SetSelectedGameObject(target.gameObject);
+    }
 }

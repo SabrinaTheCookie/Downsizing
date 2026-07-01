@@ -7,6 +7,7 @@ public class DontDestroyOnLoad : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
+        transform.SetParent(null, true);
         DontDestroyOnLoad(gameObject);
     }
 }

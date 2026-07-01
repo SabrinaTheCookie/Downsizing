@@ -46,6 +46,8 @@ public class UIManager : MonoBehaviour
         gameOverCost.text = $"${GameStateManager.Instance.GetGameState().costOfDamageCaused.ToString("00.00")}";
         gameOverSmashed.text = GameStateManager.Instance.GetGameState().objectsSmashed.ToString("0");
         gameOverTimeToTerm.text = GameStateManager.Instance.GetGameState().playTime.ToString("0");
+
+        InputManager.Instance.SetSelected(gameOverScreen.transform.Find("Retry"));
     }
 
     void ShowArrestBanner()
